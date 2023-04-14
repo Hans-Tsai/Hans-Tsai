@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on tmotx.com
-- 🌱 I’m currently learning Node.js & React & Python
+- 🔭 I’m currently study at NCCU MIS.
+- 🌱 I’m currently learning Node.js & Java & Docker.
 - 👯 I’m looking to collaborate on javascript
 - 🤔 I’m looking for help with Node.js
 - 📫 How to reach me: lgs840522@gmail.com
