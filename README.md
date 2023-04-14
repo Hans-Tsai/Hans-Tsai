@@ -9,8 +9,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on tmotx.com
-- 🌱 I’m currently learning Node.js & React & Python
+- 🔭 I’m currently study at NCCU MIS.
+- 🌱 I’m currently learning Node.js & Java & Docker.
 - 👯 I’m looking to collaborate on javascript
 - 🤔 I’m looking for help with Node.js
 - 💬 Ask me about 
