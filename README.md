@@ -6,7 +6,7 @@
 - 📫 How to reach me: lgs840522@gmail.com
 
 ### Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ### LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Hans-Tsai?theme=unicorn&font=Khula&ext=heatmap)
