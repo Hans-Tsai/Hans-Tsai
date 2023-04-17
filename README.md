@@ -6,6 +6,31 @@
 # Introduction 
 ![Introduction Trailer](./public/profile_trailer.gif)
 
+# Tech Stack
+## Public Cloud Platform
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,&theme=light)](https://skillicons.dev)
+
+## Cloud Native
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,cloudfare&theme=light)](https://skillicons.dev)
+
+## Web Development
+[![My Skills](https://skillicons.dev/icons?i=express,spring,nginx&theme=light)](https://skillicons.dev)
+
+## Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=nodejs,js,java,python&theme=light)](https://skillicons.dev)
+
+## Integrated Development Environment (IDE)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea&theme=light)](https://skillicons.dev)
+
+## Version Control
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab&theme=light)](https://skillicons.dev)
+
+## Database
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=light)](https://skillicons.dev)
+
+## API Tool
+[![My Skills](https://skillicons.dev/icons?i=postman,graphql&theme=light)](https://skillicons.dev)
+
 # Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hans-tsai&langs_count=10&hide=ejs,handlebars)](https://github.com/anuraghazra/github-readme-stats)
 
