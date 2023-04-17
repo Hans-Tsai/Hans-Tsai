@@ -1,0 +1,9 @@
+Hi, there. I'm Hans.
+Software Engineer, Backend Developer
+
+I'm currently studying MIS for master degree at NCCU.
+
+Skills: Node.js (Express), Java, Git, MySQL, MongoDB, Docker, Kubernetes, GitLab CI/CD
+
+Willing to learn and exchange ideas.
+Please feel free to communicate with me.
