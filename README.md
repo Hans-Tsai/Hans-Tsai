@@ -4,7 +4,7 @@
 - 📫 How to reach me: lgs840522@gmail.com
 
 # Introduction 
-![Introduction Trailer](./public/profile_trailer.gif)
+<img src="./public/profile_trailer.gif" alt="Introduction Trailer" width="500" height="300">
 
 # Tech Stack
 ## Public Cloud Platform
