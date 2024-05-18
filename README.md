@@ -1,5 +1,5 @@
 # Hi there 👋
-- 🔭 I’m currently study at NCCU MIS.
+- 🔭 I’m currently studying at NCCU MIS.
 - 🌱 I’m currently learning Java, Node.js, Docker.
 - 📫 How to reach me: lgs840522@gmail.com
 
@@ -7,39 +7,94 @@
 <img src="./public/profile_trailer.gif" alt="Introduction Trailer" width="500" height="300">
 
 # Tech Stack
-## Public Cloud Platform
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,&theme=light)](https://skillicons.dev)
 
-## Cloud Native
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,cloudfare&theme=light)](https://skillicons.dev)
+<table>
+  <tr>
+    <td>
+      <h3>Public Cloud Platform</h3>
+      <p>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,gcp&theme=light" /></a>
+      </p>
+    </td>
+    <td>
+      <h3>Cloud Native</h3>
+      <p>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,kubernetes,cloudflare&theme=light" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Programming Languages</h3>
+      <p>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,nodejs,js,python&theme=light" /></a>
+      </p>
+    </td>
+    <td>
+      <h3>Web Development</h3>
+      <p>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=express,spring,nginx&theme=light" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Database</h3>
+      <p>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=light" /></a>
+      </p>
+    </td>
+    <td>
+      <h3>API Tool</h3>
+      <p>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postman,graphql&theme=light" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Version Control</h3>
+      <p>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,gitlab&theme=light" /></a>
+      </p>
+    </td>
+    <td>
+      <h3>Integrated Development Environment (IDE)</h3>
+      <p>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,idea&theme=light" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-## Web Development
-[![My Skills](https://skillicons.dev/icons?i=express,spring,nginx&theme=light)](https://skillicons.dev)
+<table>
+  <tr>
+    <td>
+      <h3>Most Used Languages</h3>
+      <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hans-tsai&langs_count=10&hide=ejs,handlebars,html,css,scss" alt="Top Langs" /></a>
+    </td>
+    <td>
+      <h3>LeetCode Stats</h3>
+      <img src="https://leetcard.jacoblin.cool/Hans-Tsai?theme=unicorn&font=Khula" alt="LeetCode Stats" />
+    </td>
+    <td>
+      <h3>GitHub Stats</h3>
+      <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=hans-tsai&count_private=true&show_icons=true&theme=transparent&hide_border=true&bg_color=fffefe&hide_rank=true" alt="Anurag's GitHub stats" /></a>
+    </td>
+  </tr>
+</table>
 
-## Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=java,nodejs,js,python&theme=light)](https://skillicons.dev)
 
-## Integrated Development Environment (IDE)
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea&theme=light)](https://skillicons.dev)
-
-## Version Control
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab&theme=light)](https://skillicons.dev)
-
-## Database
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&theme=light)](https://skillicons.dev)
-
-## API Tool
-[![My Skills](https://skillicons.dev/icons?i=postman,graphql&theme=light)](https://skillicons.dev)
-
-# Most Used Languages
+<!-- # Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hans-tsai&langs_count=10&hide=ejs,handlebars,html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
 
 # LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Hans-Tsai?theme=unicorn&font=Khula)
 <!-- &ext=heatmap -->
 
-# GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hans-tsai&count_private=true&show_icons=true&theme=transparent&hide_border=true&bg_color=fffefe&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- # GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hans-tsai&count_private=true&show_icons=true&theme=transparent&hide_border=true&bg_color=fffefe&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
 
 <!--
