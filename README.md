@@ -1,6 +1,6 @@
 # Hi there 👋
 - 🔭 I’m currently study at NCCU MIS.
-- 🌱 I’m currently learning Node.js & Java & Docker.
+- 🌱 I’m currently learning Java, Node.js, Docker.
 - 📫 How to reach me: lgs840522@gmail.com
 
 # Introduction 
@@ -17,7 +17,7 @@
 [![My Skills](https://skillicons.dev/icons?i=express,spring,nginx&theme=light)](https://skillicons.dev)
 
 ## Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=nodejs,js,java,python&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,js,python&theme=light)](https://skillicons.dev)
 
 ## Integrated Development Environment (IDE)
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea&theme=light)](https://skillicons.dev)
@@ -26,19 +26,20 @@
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab&theme=light)](https://skillicons.dev)
 
 ## Database
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&theme=light)](https://skillicons.dev)
 
 ## API Tool
 [![My Skills](https://skillicons.dev/icons?i=postman,graphql&theme=light)](https://skillicons.dev)
 
 # Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hans-tsai&langs_count=10&hide=ejs,handlebars)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hans-tsai&langs_count=10&hide=ejs,handlebars,html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
 
 # LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/Hans-Tsai?theme=unicorn&font=Khula&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Hans-Tsai?theme=unicorn&font=Khula)
+<!-- &ext=heatmap -->
 
 # GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hans-tsai&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hans-tsai&count_private=true&show_icons=true&theme=transparent&hide_border=true&bg_color=fffefe&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
