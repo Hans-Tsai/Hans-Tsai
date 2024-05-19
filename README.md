@@ -33,7 +33,7 @@
     <td>
       <h3>Web Development</h3>
       <p>
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=express,spring,nginx&theme=light" /></a>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,express,nginx&theme=light" /></a>
       </p>
     </td>
   </tr>
