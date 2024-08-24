@@ -1,10 +1,9 @@
 # Hi there 👋
-- 🔭 I’m currently studying at NCCU MIS.
-- 🌱 I’m currently learning Java, Node.js, Docker.
+- 🌱 I’m currently learning Java, Node.js, Docker, AWS.
 - 📫 How to reach me: lgs840522@gmail.com
 
 # Introduction 
-<img src="./public/profile_trailer.gif" alt="Introduction Trailer" width="500" height="300">
+<!-- <img src="./public/profile_trailer.gif" alt="Introduction Trailer" width="500" height="300"> -->
 
 # Tech Stack
 
